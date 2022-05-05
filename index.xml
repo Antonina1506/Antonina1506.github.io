@@ -33,6 +33,62 @@
     </item>
     
     <item>
+      <title>Celebrating 9th of May</title>
+      <link>http://antonina1506.github.io/post/post_week2/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/post/post_week2/</guid>
+      <description>&lt;h2 id=&#34;victory-day&#34;&gt;Victory day&lt;/h2&gt;
+&lt;p&gt;Victory Day is a holiday that commemorates the victory over Nazi Germany in 1945. It was first inaugurated in the 15 republics of the Soviet Union, following the signing of the German Instrument of Surrender late in the evening on 8 May 1945 (after midnight, thus on 9 May Moscow Time). The Soviet government announced the victory early on 9 May after the signing ceremony in Berlin. Although the official inauguration occurred in 1945, the holiday became a non-labor day only in 1965, and only in certain Soviet republics.&lt;/p&gt;
+&lt;h2 id=&#34;celebration&#34;&gt;Celebration&lt;/h2&gt;
+&lt;p&gt;In 1995, as the world celebrated the 50th anniversary of the end of the war, many world leaders converged on Moscow to attend the city&amp;rsquo;s first state sponsored ceremonies since the fall of the USSR. In 2015 around 30 leaders, including those of China and India, attended the 2015 celebration, while Western leaders boycotted the ceremonies because of the Russian military intervention in Ukraine.&lt;/p&gt;
+&lt;h2 id=&#34;holiday-traditions&#34;&gt;Holiday traditions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Victory Day Parades
+Victory Day Parades are military parades that are held on 9 May, particularly in various post-soviet nations such as Russia, Kazakhstan, Belarus, and until 2015, Ukraine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mass processions
+The Immortal Regiment (Russian: Бессмертный полк; Bessmertniy Polk) is a massive civil event staged in major cities in Russia and around the world every 9 May. Since it was introduced in 2012, it has been conducted in cities such as Moscow, Washington D.C., Dushanbe, Berlin, and Yekaterinburg. Participants carry pictures of relatives and/or family members who served during the Second World War. The front line of the procession carries a banner with the words Bessmertniy Polk written on it. Up to 12 million Russians have participated in the march nationwide in recent years. Since 2015, the President Vladimir Putin and senior Russian officials have participated in the procession in Moscow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;soviet-and-post-soviet-symbols-associated-with-the-victory-day&#34;&gt;Soviet and post-Soviet symbols associated with the Victory Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Banner of Victory
+The Victory Banner refers to the Soviet military banner raised by the Soviet soldiers on the Reichstag building in Berlin on 1 May 1945. Made during the Battle of Berlin by soldiers who created it while under battlefield conditions, it has historically been the official symbol of the Victory of the Soviet people against Nazi Germany.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saint George&amp;rsquo;s Ribbon
+The Ribbon of Saint George is a military symbol that dates back to the era of the Russian Empire. It consists of a black and orange bicolour pattern, with three black and two orange stripes. In the early 21st century, it became an awareness ribbon to commemorate the veterans of the war, being recognized as a patriotic symbol.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Git. Software for tracking changes in any set of files.</title>
       <link>http://antonina1506.github.io/post/post_git/</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
@@ -58,6 +114,55 @@ Repositories can be published via Hypertext Transfer Protocol (HTTP), File Trans
 &lt;h2 id=&#34;data-structures&#34;&gt;Data structures&lt;/h2&gt;
 &lt;p&gt;In many ways you can just see git as a filesystem—it&amp;rsquo;s content-addressable, and it has a notion of versioning, but I really designed it coming at the problem from the viewpoint of a filesystem person (hey, kernels is what I do), and I actually have absolutely zero interest in creating a traditional SCM system.&lt;/p&gt;
 &lt;p&gt;Git stores each revision of a file as a unique blob. The relationships between the blobs can be found through examining the tree and commit objects. Newly added objects are stored in their entirety using zlib compression. This can consume a large amount of disk space quickly, so objects can be combined into packs, which use delta compression to save space, storing blobs as their changes relative to other blobs.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown. Lightweight markup language</title>
+      <link>http://antonina1506.github.io/post/post_markdown/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/post/post_markdown/</guid>
+      <description>&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;In 2002 Aaron Swartz created atx, &amp;ldquo;the true structured text format&amp;rdquo;. Swartz and Gruber then worked together to create the Markdown language in 2004, with the goal of enabling people &amp;ldquo;to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Its key design goal was readability, that the language be readable as-is, without looking like it has been marked up with tags or formatting instructions, unlike text formatted with a markup language, such as Rich Text Format (RTF) or HTML, which have obvious tags and formatting instructions. To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
+&lt;p&gt;Gruber wrote a Perl script, Markdown.pl, which converts marked-up text input to valid, well-formed XHTML or HTML and replaces angle brackets (&amp;lt;, &amp;gt;) and ampersands (&amp;amp;) with their corresponding character entity references. It can take the role of a standalone script, a plugin for Blosxom or a Movable Type, or of a text filter for BBEdit.&lt;/p&gt;
+&lt;h2 id=&#34;variants&#34;&gt;Variants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Flavored Markdown
+GitHub had been using its own variant of Markdown since as early as 2009, adding support for additional formatting such as tables and nesting block content inside list elements, as well as GitHub-specific features such as auto-linking references to commits, issues, usernames, etc. In 2017, GitHub released a formal specification of its GitHub Flavored Markdown (GFM) that is based on CommonMark. It is a strict superset of CommonMark, following its specification exactly except for tables, strikethrough, autolinks and task lists, which GFM adds as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown Extra
+Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal and TYPO3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LiaScript
+LiaScript is a Markdown dialect that was designed to create interactive educational content.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 
 
 
