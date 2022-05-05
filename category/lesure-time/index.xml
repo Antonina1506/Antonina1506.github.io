@@ -19,6 +19,9 @@
       <guid>http://antonina1506.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;weather&#34;&gt;Weather&lt;/h2&gt;
 &lt;p&gt;These days the weather was really plesant. The average temperature was about 12-17 degree C. There was a light warm wind somewhere and really clean sky with the shining sun.&lt;/p&gt;
+&lt;h2 id=&#34;events&#34;&gt;Events&lt;/h2&gt;
+&lt;p&gt;Last weekends there was an exhibition of arts of the future. It&amp;rsquo;s called  &amp;ldquo;Biennale. Art for the future&amp;rdquo;. There you could see many surprizing and exiting things. The events lasts untill 15th of May.
+&lt;a href=&#34;https://www.culture.ru/events/1566863/biennale-iskusstvo-budushego-art-for-the-future?ysclid=l2szkdm9x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find more information about it&lt;/a&gt;&lt;/p&gt;
 
 
 
@@ -41,9 +44,6 @@
   &lt;/div&gt;&lt;figcaption&gt;
       The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;events&#34;&gt;Events&lt;/h2&gt;
-&lt;p&gt;Last weekends there was an exhibition of arts of the future. It&amp;rsquo;s called  &amp;ldquo;Biennale. Art for the future&amp;rdquo;. There you could see many surprizing and exiting things. The events lasts untill 15th of May.
-&lt;a href=&#34;https://www.culture.ru/events/1566863/biennale-iskusstvo-budushego-art-for-the-future?ysclid=l2szkdm9x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find more information about it&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
