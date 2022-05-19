@@ -44,39 +44,17 @@
 &lt;figure  id=&#34;figure-headings&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Headings&#34; srcset=&#34;
-               /post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_311480090964678c9aef4dee93f60598.webp 400w,
-               /post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_2367e9ce6b5c155828bc329eb641a7d9.webp 760w,
+               /post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_dad881d94e7f62b53484cabdddbf32cd.webp 400w,
+               /post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_1a5afd8067899605c952e886fbe96d48.webp 760w,
                /post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://antonina1506.github.io/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_311480090964678c9aef4dee93f60598.webp&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_dad881d94e7f62b53484cabdddbf32cd.webp&#34;
                width=&#34;268&#34;
                height=&#34;131&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Headings
     &lt;/figcaption&gt;&lt;/figure&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;1.png&#34; alt=&#34;Headings&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
 &lt;h3 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h3&gt;
-&lt;p&gt;
 
 
 
@@ -92,12 +70,20 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-bold&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;2.jpg&#34; alt=&#34;Bold&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bold&#34; srcset=&#34;
+               /post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_86ac55b7088580023ce21cb003e7fde3.webp 400w,
+               /post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_3fa6b15bb144edf18ca775a3be330ef0.webp 760w,
+               /post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_86ac55b7088580023ce21cb003e7fde3.webp&#34;
+               width=&#34;536&#34;
+               height=&#34;296&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Bold
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -113,12 +99,20 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-italic&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;3.jpg&#34; alt=&#34;Italic&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Italic&#34; srcset=&#34;
+               /post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_212d6d8c01a72fd4650928dcfa4d7788.webp 400w,
+               /post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_1b5a56ef55ad505df7de287489e959e0.webp 760w,
+               /post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_212d6d8c01a72fd4650928dcfa4d7788.webp&#34;
+               width=&#34;542&#34;
+               height=&#34;350&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Italic
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -134,13 +128,21 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-bold-and-italic&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;4.jpg&#34; alt=&#34;Bold and italic&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bold and italic&#34; srcset=&#34;
+               /post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_f17ac186ecd4140924a4320377490743.webp 400w,
+               /post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_6700882407649845be30d22ce7309548.webp 760w,
+               /post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_f17ac186ecd4140924a4320377490743.webp&#34;
+               width=&#34;608&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Bold and italic
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;h3 id=&#34;lists&#34;&gt;Lists&lt;/h3&gt;
-&lt;p&gt;
 
 
 
@@ -156,12 +158,20 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-list-1&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;5.jpg&#34; alt=&#34;List 1&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 1&#34; srcset=&#34;
+               /post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_433158b43f594022e8ccc07c8a726a9d.webp 400w,
+               /post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_d4acb2826181ad2ea70a02475c9415c3.webp 760w,
+               /post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_433158b43f594022e8ccc07c8a726a9d.webp&#34;
+               width=&#34;540&#34;
+               height=&#34;290&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 1
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -177,15 +187,23 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-list-2&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;7.jpg&#34; alt=&#34;List 3&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 2&#34; srcset=&#34;
+               /post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_8e767c6f4a26fdebe57c8451a4ccff62.webp 400w,
+               /post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_a035d7c54ae08149ff7670a9f19431e9.webp 760w,
+               /post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_8e767c6f4a26fdebe57c8451a4ccff62.webp&#34;
+               width=&#34;512&#34;
+               height=&#34;231&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 2
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It doesn&amp;rsquo;t matter what figurs you put in the list, it still goes in order&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;
 
 
 
@@ -201,12 +219,20 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-list-3&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;6.jpg&#34; alt=&#34;List 2&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 3&#34; srcset=&#34;
+               /post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_bdf2a819e909b0652f46c107495d0101.webp 400w,
+               /post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_070e9d1e6bda717b072c3f195c49ee6a.webp 760w,
+               /post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_bdf2a819e909b0652f46c107495d0101.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;424&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 3
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -222,12 +248,20 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-list-4&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;8.jpg&#34; alt=&#34;List 3&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 4&#34; srcset=&#34;
+               /post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_401fc655205ab286ce7e1a8a6d5d0a17.webp 400w,
+               /post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_6d5ead1bf73df8ba7de50feb1aa76614.webp 760w,
+               /post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_401fc655205ab286ce7e1a8a6d5d0a17.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 4
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -243,12 +277,20 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-list-5&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;9.jpg&#34; alt=&#34;List 4&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 5&#34; srcset=&#34;
+               /post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_3258d63ab00c35412c1600be53c69b9b.webp 400w,
+               /post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_3bbef14839db82c0c614fac73c719a61.webp 760w,
+               /post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_3258d63ab00c35412c1600be53c69b9b.webp&#34;
+               width=&#34;547&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 5
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -264,11 +306,20 @@
 
 
 
-&lt;figure  &gt;
+
+&lt;figure  id=&#34;figure-list-6&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;10.jpg&#34; alt=&#34;List 5&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 6&#34; srcset=&#34;
+               /post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_2333a0373c1fecd750308b231e996141.webp 400w,
+               /post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_e8052103e0b5944f3f3850b9c67f1556.webp 760w,
+               /post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_2333a0373c1fecd750308b231e996141.webp&#34;
+               width=&#34;539&#34;
+               height=&#34;202&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 6
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;blockquote&gt;
 &lt;p&gt;You also can use &amp;lsquo;*&amp;rsquo; or &amp;lsquo;+&amp;rsquo; instead of &amp;lsquo;-&amp;rsquo;&lt;/p&gt;
 &lt;p&gt;Don&amp;rsquo;t use different symbols in one list&lt;/p&gt;
