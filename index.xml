@@ -45,6 +45,28 @@
 &lt;blockquote&gt;
 &lt;p&gt;Don&amp;rsquo;t forget to put &lt;em&gt;space&lt;/em&gt; between &lt;em&gt;#&lt;/em&gt; and &lt;em&gt;Heading&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-headings&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;Headings&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Headings
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;p&gt;
 
 
