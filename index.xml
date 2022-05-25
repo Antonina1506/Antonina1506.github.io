@@ -33,6 +33,171 @@
     </item>
     
     <item>
+      <title>Data Science program languages</title>
+      <link>http://antonina1506.github.io/post/post_program_languages/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/post/post_program_languages/</guid>
+      <description>&lt;h2 id=&#34;data-science-program-languages&#34;&gt;Data Science program languages&lt;/h2&gt;
+&lt;p&gt;В широком смысле &lt;em&gt;научный язык программирования&lt;/em&gt; - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C/C++ и Python можно считать научными языками программирования.&lt;/p&gt;
+&lt;p&gt;В более широком смысле &lt;em&gt;научный язык программирования&lt;/em&gt; - это язык, разработанный и оптимизированный для использования математических формул и матриц. Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и синтаксисом самого языка. Например,ни в C ++, ни в Python нет встроенных матричных типов или функций для матричной арифметики (сложение, умножение и т. Д.); Вместо этого эта функциональность доступна через стандартные библиотеки. Научные языки программирования в более сильном смысле включают ALGOL, APL, Fortran, J, Julia, Maple, MATLAB и R.&lt;/p&gt;
+&lt;p&gt;Научные языки программирования не следует путать с научным языком в целом, который относится к более высоким стандартам точности, правильности и краткости, ожидаемым от практиков научного метода&lt;/p&gt;
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+&lt;p&gt;Язык R появился на свет в 1995 году как прямой наследник более старого языка S. Созданный с использованием C, фортрана и себя самого, R поддерживается организацией R Foundation for Statistical Computing.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы&#34;&gt;Плюсы:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Отличный ассортимент качественных специализированных пакетов с открытым исходным кодом. R имеет пакеты практически для любого статистического приложения, которое можно себе представить: нейронные сети, нелинейная регрессия, филогенетика и многое, многое другое.&lt;/li&gt;
+&lt;li&gt;При базовой установке языка доступно множество статистических функций и методов. R также отлично справляется с матричной алгеброй.&lt;/li&gt;
+&lt;li&gt;Качественная визуализация данных с использованием библиотек, вроде ggplot2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Производительность. R не самый быстрый язык.&lt;/li&gt;
+&lt;li&gt;Специфичность областей применения. R прекрасен для статистики и обработки данных, но как язык общего назначения он едва ли сгодится.&lt;/li&gt;
+&lt;li&gt;Свои особенности. R имеет несколько необычных особенностей, на которые могут попасться программисты, знакомые с другими языками. Как пример: индексирование начинается с единицы, есть несколько операторов присваивания, структуры данных отличаются от традиционных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;Гвидо ван Россум показал Пайтон в 1991 году. С тех пор он превратился в чрезвычайно популярный язык общего назначения, который широко применяется в обработке данных. Основные версии языка на данный момент – это 2.7 и 3.6.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-1&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Пайтон очень популярен и имеет множество расширений и поддержку сообщества разработчиков.&lt;/li&gt;
+&lt;li&gt;Python обладает простым и понятным новичкам синтаксисом – так что отлично подходит на роль первого языка программирования с низким порогом входа.&lt;/li&gt;
+&lt;li&gt;Пакеты, вроде pandas, scikit-learn и Tensorflow, делают Python отличным вариантом для современных приложений с машинным обучением.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-1&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Питон – язык с динамической типизацией. Так что следует быть внимательным и ожидать время от времени ошибок вроде тех, где метод ожидает получить на входе integer, а получает строку.&lt;/li&gt;
+&lt;li&gt;По количеству узкоспециализированных пакетов для статистического анализа Python проигрывает R.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sql&#34;&gt;SQL&lt;/h2&gt;
+&lt;p&gt;SQL (Structured Query Language) создан для определения, управления и создания запросов к реляционным базам данных. Он появился в 1974 году и с тех пор претерпел множество изменений, но его основные принципы остались прежними.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-2&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Очень эффективен при работе с реляционными базами данных.&lt;/li&gt;
+&lt;li&gt;Декларативный синтаксис делает SQL легко воспринимаемым языком. Совершенно ясно, что подразумевается под ‘SELECT name FROM users WHERE age &amp;gt; 18’.&lt;/li&gt;
+&lt;li&gt;SQL используется во многих приложениях, так что ознакомиться с этим языком будет полезно.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-2&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Аналитические возможности SQL довольно ограничены. Все что вам доступно – это суммирование, и подсчет и вывод среднего значения.&lt;/li&gt;
+&lt;li&gt;Для программистов, привыкших к императивным языкам, декларативные конструкции SQL могут вызывать неудобства.&lt;/li&gt;
+&lt;li&gt;Существует множество реализаций SQL, например, PostgreSQL, SQLite, MariaDB. Все они разняться в достаточной степени, чтобы вызывать боль.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+&lt;p&gt;Java – крайне популярный язык общего назначения. Для работы использует JVM (Java Virtual Machine) – собственную абстрактную вычислительную систему, которая обеспечивает полную переносимость между различными платформами. Поддерживается Oracle Corporation.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-3&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Java вездесущ. Многие современные системы и приложения созданы на Java.&lt;/li&gt;
+&lt;li&gt;Строго типизированный язык. По отношению к определению типов Java крайне серьезен. Для приложений, работающих с большими объемами данных это бесценно.&lt;/li&gt;
+&lt;li&gt;Java – высокопроизводительный компилируемый язык общего назначения. Один и тот же язык может быть использован и для написания бизнес-логики, и для аналитики больших объемов данных, на что не способны другие языки программирования для Data Science.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-3&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Для узконаправленного анализа и специфичных статистических приложений синтаксис Java слишком многословен. Динамически типизированные R и Python здесь принесут куда больше пользы.&lt;/li&gt;
+&lt;li&gt;Для Java создано не так много библиотек для работы со статистикой.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scala&#34;&gt;Scala&lt;/h2&gt;
+&lt;p&gt;Скала разработан Мартином Одерски и выпущена в свет в 2004 год. Это еще один язык, который использует для работы JVM. Scala – мультипарадигмальный язык, который способен реализовать и ООП и функциональный подход.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-4&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Scala + Spark = высокопроизводительные кластерные вычисления. Идеальный язык для тех, кто работает с наборами данных большого объема.&lt;/li&gt;
+&lt;li&gt;Мультипарадигматика. Разработчик волен использовать как ООП, так и функциональный подход.&lt;/li&gt;
+&lt;li&gt;Scala компилируется в байт-код Java и работает на JVM. Это позволяет Scala взаимодействовать с Java и в принципе делает его мощным языком общего назначения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-4&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Scala – не самый простой для изучения язык, так что как первый он едва ли сгодится.&lt;/li&gt;
+&lt;li&gt;Синтаксис в целом и система типизации в языке сложные.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
+&lt;p&gt;Появился на свет в 2012 году. Язык был быстро принят в финансовой сфере.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-5&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia компилируется just-in-time, что обеспечивает хорошую производительность. Он также прост в изучении и динамически типизирован.&lt;/li&gt;
+&lt;li&gt;Julia, как и другие языки программирования для Data Science, предназначен для вычислений и анализа, но может быть использован и как язык общего назначения.&lt;/li&gt;
+&lt;li&gt;Читабельность. Многие пользователи этого языка ссылаются на этот плюс как на ключевое преимущество.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-5&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Незрелость. Так как язык появился недавно, некоторые пакеты могут работать нестабильно.&lt;/li&gt;
+&lt;li&gt;Ограниченность набора пакетов – еще одно следствие молодости языка. В будущем Julia это наверняка наверстает, но пока R и Python дает этому языку фору.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;matlab&#34;&gt;MATLAB&lt;/h2&gt;
+&lt;p&gt;MATLAB – признанный язык для вычислений, используется в академических кругах и промышленности. Разработан и лицензирован MathWorks, компанией, созданной в 1984 году, которая занимается разработкой программного обеспечения.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-6&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Создан для вычислений. Идеально подходит для приложений, требующих сложных математических функций.&lt;/li&gt;
+&lt;li&gt;Имеет ряд встроенных функций для визуализации данных.&lt;/li&gt;
+&lt;li&gt;Используется во многих университетских курсах по физике, инженерии и прикладной математике. Как следствие широко применяется в этих областях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-6&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Проприетарная лицензия. Конечная стоимость, конечно, зависит от области применения (существуют домашняя, студенческая, академическая или стандартная лицензии), но раскошелиться придется в любом случае (от $55 до пары тысяч).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Существуют и другие языки общего назначения, которые так или иначе подходят для работы с данными. Приводим их краткий обзор.&lt;/p&gt;
+&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
+&lt;p&gt;Мощный язык программирования общего назначения, обладающий молниеносной производительностью. Вопрос невысокой популярности C++ в Data Science объясняется выбором продуктивности вычислений против производительности языка.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Как сказал один пользователь Quora:&lt;/p&gt;
+&lt;p&gt;«Если вы пишете код, который будет делать какой-то специальный анализ, и запустится всего раз, что вы выберете: потратить полчаса на программу, которая будет работать через 10 секунд или 10 минут на написание программы, которая запустится через минуту?»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+&lt;p&gt;Хотя с появлением Node.js JavaScript стал серьезным серверным языком, его использование в Data Science ограничено (хотя есть, конечно, brain.js и synaptic.js). А виной тому некоторые его недостатки:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Хотя Node.js на данный момент 8 лет, существует всего несколько библиотек и модулей для работы с большими данными.&lt;/li&gt;
+&lt;li&gt;Node.js довольно производительная платформа, но у самого JavaScript много критиков, и не без основания.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Node.js обладает асинхронным вводом/выводом – и это сильная сторона. Так что, в будущем это может сыграть в пользу JavaScript, как серьезного языка для обработки больших объемов данных. Другой вопрос в том, будет ли кто-то на его основе создавать то, что уже имеют другие языки программирования для Data Science.&lt;/p&gt;
+&lt;h2 id=&#34;perl&#34;&gt;Perl&lt;/h2&gt;
+&lt;p&gt;Perl имеет славу швейцарского ножа среди языков программирования, благодаря его универсальности, как скриптового языка. Он имеет много общего с Python и является динамически типизированным языком.&lt;/p&gt;
+&lt;p&gt;Однако, в сравнении с тем же Python, он имеет крайне мало расширений для работы с данными и большого энтузиазма в этой области работы с Perl не наблюдается. Возможно, виной тому не слишком дружелюбный синтаксис.&lt;/p&gt;
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+&lt;p&gt;Ruby – еще один популярный динамически типизированный язык общего назначения. Тем не менее, он также не был принят разработчиками работающими с большими данными в сравнении с Python.&lt;/p&gt;
+&lt;p&gt;Однако для Ruby существует проект SciRuby, созданный для вычислений и обработки данных. Впрочем, для серьезных исследований одного его оказывается недостаточно, поэтому Ruby остается не так популярен, как другие языки программирования для Data Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hectic week</title>
+      <link>http://antonina1506.github.io/post/post_week4/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/post/post_week4/</guid>
+      <description>&lt;h2 id=&#34;my-week&#34;&gt;My week&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve taken some math tests and prepared for an English exam. Besides, I prepared my math and English homework for the university. Moreover, I did some extar tasks: korean english. On Saturday I meet my friend from korean school at the cafe to do a Korean challenge. Here you can see the result ⇢ &lt;a href=&#34;https://www.youtube.com/watch?v=kDWWXVunYSo&amp;amp;t=88s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kDWWXVunYSo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Presenting myself in Korean</title>
+      <link>http://antonina1506.github.io/project/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/project/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1IAiLoZ5toU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Here you can see my video presentation ↟ or you can you this link ↠
+&lt;a href=&#34;https://www.youtube.com/watch?v=1IAiLoZ5toU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요, 저는 토냐에요. 만나서 반가워요.
+그리고 지금 저는 자기소개하고 싶어요. 시작 할께요!&lt;/p&gt;
+&lt;p&gt;저는 열여덟 살이에요. 파란색 눈과 짙은 갈색 머리예요. 제 아빠는 군인이였어요. 그래서 우리는 자주 이사했어요. 지금은 모스크바에서 살아요. 우리 가족은 모두 여섯 명인데. 아빠, 엄마, 언니와 여동생이 두 명 있어요. 아울러 저에겐 고양이가 있어요. 정말 예쁘고 커요.&lt;/p&gt;
+&lt;p&gt;어렸을때 저는 육년동안 스포츠 댄스를 했어요. 그리고 학교에서 뮤직밴드에서 노래했어요. 또한 탁구를 했는데요.&lt;/p&gt;
+&lt;p&gt;작년에 저는 루데엔 대학교에 입학했어요. 학교에서 외국어와 수학을 좋아했어요. 그래서 대학교에서 수학과 컴퓨터를 공부하고 전공 수업외에 영어와 한국어를 공부해요. 이제 제 영어 레벨은 B2예요. C1 레벨 시험을 통과하고 싶어서 저는 열심히 공부해요.&lt;/p&gt;
+&lt;p&gt;저는 취미가 많이 있지만 한국어는 제일 중요하게 생각해요.저는 드라마를 보고 한국을 좋아하기 시작했어요. 그래서 한국 문화를 공부하기 시작했어요. 저는 한국어를 스스로 공부했지만 그 후 산한국어학당에 다니기 시작했어요. 열심히 노력하며 자주 공부해요. 저는 영화, 한국 비디오, 음악, 한국 친구와의 교제와 한식을 통해 한국 문화를 알게되었어요. 한국어를 좋아해서 한국어는 저에게 일종에 휴식인것 같아요. 한국을 실제로 보려고 저는 한국에 여행을 너무 가고 싶어요. 저는 미래에 무엇을 하고 싶은지 아직 몰라요. 하지만 공부하는것을 좋아해서 많은 관련된 취미들가 있어요.&lt;/p&gt;
+&lt;p&gt;하지만 한국어은 저에게 가장 중요해요.그래서 저는 산한국어학당이 제공하는 기회에 정말 감사해요. 지금 몇몇의 학생들에게 한국에 가서 한국 대학교에서 한국어를 공부할 기회가 있어요. 그리고 다른것과 비교할수 없는 경험을 할수 있어요.&lt;/p&gt;
+&lt;p&gt;저는 한국과 한국어를 정말 좋아해서 제 꿈을 이루려고 열심히 공부해요.&lt;/p&gt;
+&lt;p&gt;들어주셔서 감사합니다 !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Report creating in markdown.</title>
       <link>http://antonina1506.github.io/post/post_report/</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
@@ -720,19 +885,6 @@ $$&lt;/p&gt;
 &lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Example Project</title>
-      <link>http://antonina1506.github.io/project/example/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://antonina1506.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
     </item>
     
