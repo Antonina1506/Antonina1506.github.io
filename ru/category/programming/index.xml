@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>programming | Antonina</title>
+    <link>http://antonina1506.github.io/ru/category/programming/</link>
+      <atom:link href="http://antonina1506.github.io/ru/category/programming/index.xml" rel="self" type="application/rss+xml" />
+    <description>programming</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 18 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://antonina1506.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>programming</title>
+      <link>http://antonina1506.github.io/ru/category/programming/</link>
+    </image>
+    
+    <item>
+      <title>Оформление отчёта в markdown.</title>
+      <link>http://antonina1506.github.io/ru/post/post_report/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_report/</guid>
+      <description>&lt;h2 id=&#34;common-information&#34;&gt;Common information&lt;/h2&gt;
+&lt;p&gt;Markdown is a markup language that will make your report creating much easier. To work with it you do not really need any special skill, it&amp;rsquo;s quite easy language. There are some basic things that you should know and it will be enough to create common reports. However, if you want to inprove your skills in markdown, you need to found out more information here -&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about markdown&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;main-elements&#34;&gt;Main elements&lt;/h2&gt;
+&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don&amp;rsquo;t forget to put &lt;em&gt;space&lt;/em&gt; between &lt;em&gt;#&lt;/em&gt; and &lt;em&gt;Heading&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-headings&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Headings&#34; srcset=&#34;
+               /ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_ff2b56b1d068c8a533f6e8c5c6494cfa.webp 400w,
+               /ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_1a5afd8067899605c952e886fbe96d48.webp 760w,
+               /ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_ff2b56b1d068c8a533f6e8c5c6494cfa.webp&#34;
+               width=&#34;268&#34;
+               height=&#34;131&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Headings
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-bold&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bold&#34; srcset=&#34;
+               /ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_4fbd442f4fac841d30181658c1a23092.webp 400w,
+               /ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_a223abf923494662c9162e63e8be5fa0.webp 760w,
+               /ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_4fbd442f4fac841d30181658c1a23092.webp&#34;
+               width=&#34;536&#34;
+               height=&#34;296&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Bold
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-italic&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Italic&#34; srcset=&#34;
+               /ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_5f50ca695dbc28791b94647e71a38d83.webp 400w,
+               /ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_486878874d025f2fcac80dff06ec0485.webp 760w,
+               /ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_5f50ca695dbc28791b94647e71a38d83.webp&#34;
+               width=&#34;542&#34;
+               height=&#34;350&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Italic
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-bold-and-italic&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bold and italic&#34; srcset=&#34;
+               /ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_0f40d96ee70d988aefe00855ff86897b.webp 400w,
+               /ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_6407027a3ac639499d6d701e08950f08.webp 760w,
+               /ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_0f40d96ee70d988aefe00855ff86897b.webp&#34;
+               width=&#34;608&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Bold and italic
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;lists&#34;&gt;Lists&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 1&#34; srcset=&#34;
+               /ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_b237591e61eced3b0909027fd77de1f1.webp 400w,
+               /ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_b6166d1e9c1a8c54a26a3287b7e49cb0.webp 760w,
+               /ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_b237591e61eced3b0909027fd77de1f1.webp&#34;
+               width=&#34;540&#34;
+               height=&#34;290&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 1
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 2&#34; srcset=&#34;
+               /ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_657d4f200cb39dc89798641689c10fed.webp 400w,
+               /ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_6a23c9f95432cdc64041d7e0587a5459.webp 760w,
+               /ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_657d4f200cb39dc89798641689c10fed.webp&#34;
+               width=&#34;512&#34;
+               height=&#34;231&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 2
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It doesn&amp;rsquo;t matter what figurs you put in the list, it still goes in order&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 3&#34; srcset=&#34;
+               /ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_eed25684829d255741c3f12d14430dc5.webp 400w,
+               /ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_265ef16be4a087adc0f211c63eb1d025.webp 760w,
+               /ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_eed25684829d255741c3f12d14430dc5.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;424&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 3
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-4&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 4&#34; srcset=&#34;
+               /ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_bbe1aeeaebb8477c563caa1a26a2956f.webp 400w,
+               /ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_892f44c5af7ca17bdfbbb051548c4526.webp 760w,
+               /ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_bbe1aeeaebb8477c563caa1a26a2956f.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 4
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-5&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 5&#34; srcset=&#34;
+               /ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_2f46ea9a9c325b79b0a884f653ac1f17.webp 400w,
+               /ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_b9c879a3766c6fe358b133b71183c2c3.webp 760w,
+               /ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_2f46ea9a9c325b79b0a884f653ac1f17.webp&#34;
+               width=&#34;547&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 5
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-6&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 6&#34; srcset=&#34;
+               /ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_ca32bb417a63105f7e9a60218486a445.webp 400w,
+               /ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_e52c8ed228eb98cbc22817b628b9d5aa.webp 760w,
+               /ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_ca32bb417a63105f7e9a60218486a445.webp&#34;
+               width=&#34;539&#34;
+               height=&#34;202&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 6
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You also can use &amp;lsquo;*&amp;rsquo; or &amp;lsquo;+&amp;rsquo; instead of &amp;lsquo;-&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t use different symbols in one list&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Here were some tips to make you life easier using markdown to create your reports.
+Thank you foe your attention!&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown. Лёгкий язык разметки</title>
+      <link>http://antonina1506.github.io/ru/post/post_markdown/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_markdown/</guid>
+      <description>&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;In 2002 Aaron Swartz created atx, &amp;ldquo;the true structured text format&amp;rdquo;. Swartz and Gruber then worked together to create the Markdown language in 2004, with the goal of enabling people &amp;ldquo;to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Its key design goal was readability, that the language be readable as-is, without looking like it has been marked up with tags or formatting instructions, unlike text formatted with a markup language, such as Rich Text Format (RTF) or HTML, which have obvious tags and formatting instructions. To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
+&lt;p&gt;Gruber wrote a Perl script, Markdown.pl, which converts marked-up text input to valid, well-formed XHTML or HTML and replaces angle brackets (&amp;lt;, &amp;gt;) and ampersands (&amp;amp;) with their corresponding character entity references. It can take the role of a standalone script, a plugin for Blosxom or a Movable Type, or of a text filter for BBEdit.&lt;/p&gt;
+&lt;h2 id=&#34;variants&#34;&gt;Variants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Flavored Markdown
+GitHub had been using its own variant of Markdown since as early as 2009, adding support for additional formatting such as tables and nesting block content inside list elements, as well as GitHub-specific features such as auto-linking references to commits, issues, usernames, etc. In 2017, GitHub released a formal specification of its GitHub Flavored Markdown (GFM) that is based on CommonMark. It is a strict superset of CommonMark, following its specification exactly except for tables, strikethrough, autolinks and task lists, which GFM adds as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown Extra
+Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal and TYPO3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LiaScript
+LiaScript is a Markdown dialect that was designed to create interactive educational content.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

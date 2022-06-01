@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonina</title>
+    <link>http://antonina1506.github.io/ru/</link>
+      <atom:link href="http://antonina1506.github.io/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonina</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://antonina1506.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Antonina</title>
+      <link>http://antonina1506.github.io/ru/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://antonina1506.github.io/ru/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Готовим корейскую курочку.</title>
+      <link>http://antonina1506.github.io/ru/post/post_chiken/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_chiken/</guid>
+      <description>&lt;h2 id=&#34;ingridients&#34;&gt;Ingridients&lt;/h2&gt;
+&lt;p&gt;To cook this delicious chiken you need:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chiken wings (700 g)&lt;/li&gt;
+&lt;li&gt;Flour (150 g)&lt;/li&gt;
+&lt;li&gt;Oil&lt;/li&gt;
+&lt;li&gt;Milk (500 ml)&lt;/li&gt;
+&lt;li&gt;Salt and pepper&lt;/li&gt;
+&lt;li&gt;Teriyaki sauce (1 pack)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-sauce&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Sauce&#34; srcset=&#34;
+               /ru/post/post_chiken/image/1_hu9f447ed76e1705f91c3117ddd547aa44_307153_3b5ca2e52897656b80c43426cbf9460c.webp 400w,
+               /ru/post/post_chiken/image/1_hu9f447ed76e1705f91c3117ddd547aa44_307153_f92a5d6f5d76781b19bd9731c6ff8e17.webp 760w,
+               /ru/post/post_chiken/image/1_hu9f447ed76e1705f91c3117ddd547aa44_307153_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/1_hu9f447ed76e1705f91c3117ddd547aa44_307153_3b5ca2e52897656b80c43426cbf9460c.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Sauce
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;recipe&#34;&gt;Recipe&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Before cooking wash chiken and put it in a deep bowl. Pour milk and add salt with pepper and mix it a little. Leave it for 30-60 min.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-chiken-in-milk&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;chiken in milk&#34; srcset=&#34;
+               /ru/post/post_chiken/image/2_hu643efbc45272ff1d4040b9f369fbb431_227244_fc3e3bdb9adf62f8c1f116f68b26eaff.webp 400w,
+               /ru/post/post_chiken/image/2_hu643efbc45272ff1d4040b9f369fbb431_227244_e68fc29c534c1ea7ba3a0007ca6f54af.webp 760w,
+               /ru/post/post_chiken/image/2_hu643efbc45272ff1d4040b9f369fbb431_227244_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/2_hu643efbc45272ff1d4040b9f369fbb431_227244_fc3e3bdb9adf62f8c1f116f68b26eaff.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      chiken in milk
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Pour oil on a pan and wait a little bit until it&amp;rsquo;s warm. Put chiken on the pan. Do not fry it: chiken should be boiled with little gold skin.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-1-fry&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;1 fry&#34; srcset=&#34;
+               /ru/post/post_chiken/image/3_huf4ff028024d12df4e02286a3a6ea6785_310403_49e1cb60ca4a934a74ef0217aaf522e0.webp 400w,
+               /ru/post/post_chiken/image/3_huf4ff028024d12df4e02286a3a6ea6785_310403_1505639142871416ed6a1b6be7a71c76.webp 760w,
+               /ru/post/post_chiken/image/3_huf4ff028024d12df4e02286a3a6ea6785_310403_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/3_huf4ff028024d12df4e02286a3a6ea6785_310403_49e1cb60ca4a934a74ef0217aaf522e0.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      1 fry
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Prepare milk and flour: pour milk where you left chiken into a deep bowl and take to plastic bags put one into another and pour flour into these bags.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-prepare&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Prepare&#34; srcset=&#34;
+               /ru/post/post_chiken/image/4_hu2ba5f1863afd3354f959bbec84a3c310_261000_fb79d71e2c49a453655bd8b5593799d1.webp 400w,
+               /ru/post/post_chiken/image/4_hu2ba5f1863afd3354f959bbec84a3c310_261000_3c522609f1bf46e85da0f0fee8698e7c.webp 760w,
+               /ru/post/post_chiken/image/4_hu2ba5f1863afd3354f959bbec84a3c310_261000_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/4_hu2ba5f1863afd3354f959bbec84a3c310_261000_fb79d71e2c49a453655bd8b5593799d1.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Prepare
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Dip chiken into milk and into flour 2 times (milk layer should be the last) and put it on the pan. Cook it until it&amp;rsquo;s pretty gold and not raw.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-2-fry&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2 fry&#34; srcset=&#34;
+               /ru/post/post_chiken/image/5_hu2d6d2f8d2e2c45e6fa06c86dfb066453_491188_e8ddc383b9fb3fb46030104f0cddb3a4.webp 400w,
+               /ru/post/post_chiken/image/5_hu2d6d2f8d2e2c45e6fa06c86dfb066453_491188_39cd1b782ccbe093c671cb166ca9cc2c.webp 760w,
+               /ru/post/post_chiken/image/5_hu2d6d2f8d2e2c45e6fa06c86dfb066453_491188_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/5_hu2d6d2f8d2e2c45e6fa06c86dfb066453_491188_e8ddc383b9fb3fb46030104f0cddb3a4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      2 fry
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-almost-ready&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Almost ready&#34; srcset=&#34;
+               /ru/post/post_chiken/image/6_hu6940865592e3b574712f7f881a266614_316801_73e5985f892b4911ba62f7510f5e3fe4.webp 400w,
+               /ru/post/post_chiken/image/6_hu6940865592e3b574712f7f881a266614_316801_acd366e2ad98ddc556c80a8358386510.webp 760w,
+               /ru/post/post_chiken/image/6_hu6940865592e3b574712f7f881a266614_316801_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/6_hu6940865592e3b574712f7f881a266614_316801_73e5985f892b4911ba62f7510f5e3fe4.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Almost ready
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;After finishing frying pour out some oil. Then take the sauce pack and pour it on the pan. Make it warm a little (not boiled).&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-warming-sauce&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Warming sauce&#34; srcset=&#34;
+               /ru/post/post_chiken/image/7_hu9ce4952618473a61ac0bf7a3b24a8f78_314977_7a2665ccaf59ca0c4fb2b855a5ba9c59.webp 400w,
+               /ru/post/post_chiken/image/7_hu9ce4952618473a61ac0bf7a3b24a8f78_314977_deaf7f5ed5a8bf2da661bdf0a59d28c8.webp 760w,
+               /ru/post/post_chiken/image/7_hu9ce4952618473a61ac0bf7a3b24a8f78_314977_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/7_hu9ce4952618473a61ac0bf7a3b24a8f78_314977_7a2665ccaf59ca0c4fb2b855a5ba9c59.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Warming sauce
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Put chiken on the pan to the sauce and mix it all together. So your DELICIOUS chiken is ready! Bon Appetit!&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-mixing&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Mixing&#34; srcset=&#34;
+               /ru/post/post_chiken/image/8_hu6e7b2e72f38bee1348a8542bb9ecee76_384557_dec56758497ca788580efe2c48f3314a.webp 400w,
+               /ru/post/post_chiken/image/8_hu6e7b2e72f38bee1348a8542bb9ecee76_384557_ec11867c342c4b25e126a464f342572f.webp 760w,
+               /ru/post/post_chiken/image/8_hu6e7b2e72f38bee1348a8542bb9ecee76_384557_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_chiken/image/8_hu6e7b2e72f38bee1348a8542bb9ecee76_384557_dec56758497ca788580efe2c48f3314a.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Mixing
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;more&#34;&gt;More&lt;/h2&gt;
+&lt;p&gt;This tasty dish can be the maincourse as well as a snack to watch a movie with. Hope you&amp;rsquo;ll try to do it and nailed it for sure!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Загруженная неделя</title>
+      <link>http://antonina1506.github.io/ru/post/post_week4/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_week4/</guid>
+      <description>&lt;h2 id=&#34;my-week&#34;&gt;My week&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve taken some math tests and prepared for an English exam. Besides, I prepared my math and English homework for the university. Moreover, I did some extar tasks: korean english. On Saturday I meet my friend from korean school at the cafe to do a Korean challenge. Here you can see the result ⇢ &lt;a href=&#34;https://www.youtube.com/watch?v=kDWWXVunYSo&amp;amp;t=88s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/kDWWXVunYSo&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Научные языки программирования</title>
+      <link>http://antonina1506.github.io/ru/post/post_program_languages/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_program_languages/</guid>
+      <description>&lt;h2 id=&#34;data-science-program-languages&#34;&gt;Data Science program languages&lt;/h2&gt;
+&lt;p&gt;В широком смысле &lt;em&gt;научный язык программирования&lt;/em&gt; - это язык программирования, который широко используется для вычислительной науки и вычислительной математики. В этом смысле C/C++ и Python можно считать научными языками программирования.&lt;/p&gt;
+&lt;p&gt;В более широком смысле &lt;em&gt;научный язык программирования&lt;/em&gt; - это язык, разработанный и оптимизированный для использования математических формул и матриц. Такие языки характеризуются не только наличием библиотек, выполняющих математические или научные функции, но и синтаксисом самого языка. Например,ни в C ++, ни в Python нет встроенных матричных типов или функций для матричной арифметики (сложение, умножение и т. Д.); Вместо этого эта функциональность доступна через стандартные библиотеки. Научные языки программирования в более сильном смысле включают ALGOL, APL, Fortran, J, Julia, Maple, MATLAB и R.&lt;/p&gt;
+&lt;p&gt;Научные языки программирования не следует путать с научным языком в целом, который относится к более высоким стандартам точности, правильности и краткости, ожидаемым от практиков научного метода&lt;/p&gt;
+&lt;h2 id=&#34;r&#34;&gt;R&lt;/h2&gt;
+&lt;p&gt;Язык R появился на свет в 1995 году как прямой наследник более старого языка S. Созданный с использованием C, фортрана и себя самого, R поддерживается организацией R Foundation for Statistical Computing.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы&#34;&gt;Плюсы:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Отличный ассортимент качественных специализированных пакетов с открытым исходным кодом. R имеет пакеты практически для любого статистического приложения, которое можно себе представить: нейронные сети, нелинейная регрессия, филогенетика и многое, многое другое.&lt;/li&gt;
+&lt;li&gt;При базовой установке языка доступно множество статистических функций и методов. R также отлично справляется с матричной алгеброй.&lt;/li&gt;
+&lt;li&gt;Качественная визуализация данных с использованием библиотек, вроде ggplot2.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Производительность. R не самый быстрый язык.&lt;/li&gt;
+&lt;li&gt;Специфичность областей применения. R прекрасен для статистики и обработки данных, но как язык общего назначения он едва ли сгодится.&lt;/li&gt;
+&lt;li&gt;Свои особенности. R имеет несколько необычных особенностей, на которые могут попасться программисты, знакомые с другими языками. Как пример: индексирование начинается с единицы, есть несколько операторов присваивания, структуры данных отличаются от традиционных.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+&lt;p&gt;Гвидо ван Россум показал Пайтон в 1991 году. С тех пор он превратился в чрезвычайно популярный язык общего назначения, который широко применяется в обработке данных. Основные версии языка на данный момент – это 2.7 и 3.6.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-1&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Пайтон очень популярен и имеет множество расширений и поддержку сообщества разработчиков.&lt;/li&gt;
+&lt;li&gt;Python обладает простым и понятным новичкам синтаксисом – так что отлично подходит на роль первого языка программирования с низким порогом входа.&lt;/li&gt;
+&lt;li&gt;Пакеты, вроде pandas, scikit-learn и Tensorflow, делают Python отличным вариантом для современных приложений с машинным обучением.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-1&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Питон – язык с динамической типизацией. Так что следует быть внимательным и ожидать время от времени ошибок вроде тех, где метод ожидает получить на входе integer, а получает строку.&lt;/li&gt;
+&lt;li&gt;По количеству узкоспециализированных пакетов для статистического анализа Python проигрывает R.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sql&#34;&gt;SQL&lt;/h2&gt;
+&lt;p&gt;SQL (Structured Query Language) создан для определения, управления и создания запросов к реляционным базам данных. Он появился в 1974 году и с тех пор претерпел множество изменений, но его основные принципы остались прежними.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-2&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Очень эффективен при работе с реляционными базами данных.&lt;/li&gt;
+&lt;li&gt;Декларативный синтаксис делает SQL легко воспринимаемым языком. Совершенно ясно, что подразумевается под ‘SELECT name FROM users WHERE age &amp;gt; 18’.&lt;/li&gt;
+&lt;li&gt;SQL используется во многих приложениях, так что ознакомиться с этим языком будет полезно.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-2&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Аналитические возможности SQL довольно ограничены. Все что вам доступно – это суммирование, и подсчет и вывод среднего значения.&lt;/li&gt;
+&lt;li&gt;Для программистов, привыкших к императивным языкам, декларативные конструкции SQL могут вызывать неудобства.&lt;/li&gt;
+&lt;li&gt;Существует множество реализаций SQL, например, PostgreSQL, SQLite, MariaDB. Все они разняться в достаточной степени, чтобы вызывать боль.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+&lt;p&gt;Java – крайне популярный язык общего назначения. Для работы использует JVM (Java Virtual Machine) – собственную абстрактную вычислительную систему, которая обеспечивает полную переносимость между различными платформами. Поддерживается Oracle Corporation.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-3&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Java вездесущ. Многие современные системы и приложения созданы на Java.&lt;/li&gt;
+&lt;li&gt;Строго типизированный язык. По отношению к определению типов Java крайне серьезен. Для приложений, работающих с большими объемами данных это бесценно.&lt;/li&gt;
+&lt;li&gt;Java – высокопроизводительный компилируемый язык общего назначения. Один и тот же язык может быть использован и для написания бизнес-логики, и для аналитики больших объемов данных, на что не способны другие языки программирования для Data Science.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-3&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Для узконаправленного анализа и специфичных статистических приложений синтаксис Java слишком многословен. Динамически типизированные R и Python здесь принесут куда больше пользы.&lt;/li&gt;
+&lt;li&gt;Для Java создано не так много библиотек для работы со статистикой.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scala&#34;&gt;Scala&lt;/h2&gt;
+&lt;p&gt;Скала разработан Мартином Одерски и выпущена в свет в 2004 год. Это еще один язык, который использует для работы JVM. Scala – мультипарадигмальный язык, который способен реализовать и ООП и функциональный подход.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-4&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Scala + Spark = высокопроизводительные кластерные вычисления. Идеальный язык для тех, кто работает с наборами данных большого объема.&lt;/li&gt;
+&lt;li&gt;Мультипарадигматика. Разработчик волен использовать как ООП, так и функциональный подход.&lt;/li&gt;
+&lt;li&gt;Scala компилируется в байт-код Java и работает на JVM. Это позволяет Scala взаимодействовать с Java и в принципе делает его мощным языком общего назначения.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-4&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Scala – не самый простой для изучения язык, так что как первый он едва ли сгодится.&lt;/li&gt;
+&lt;li&gt;Синтаксис в целом и система типизации в языке сложные.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;julia&#34;&gt;Julia&lt;/h2&gt;
+&lt;p&gt;Появился на свет в 2012 году. Язык был быстро принят в финансовой сфере.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-5&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Julia компилируется just-in-time, что обеспечивает хорошую производительность. Он также прост в изучении и динамически типизирован.&lt;/li&gt;
+&lt;li&gt;Julia, как и другие языки программирования для Data Science, предназначен для вычислений и анализа, но может быть использован и как язык общего назначения.&lt;/li&gt;
+&lt;li&gt;Читабельность. Многие пользователи этого языка ссылаются на этот плюс как на ключевое преимущество.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-5&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Незрелость. Так как язык появился недавно, некоторые пакеты могут работать нестабильно.&lt;/li&gt;
+&lt;li&gt;Ограниченность набора пакетов – еще одно следствие молодости языка. В будущем Julia это наверняка наверстает, но пока R и Python дает этому языку фору.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;matlab&#34;&gt;MATLAB&lt;/h2&gt;
+&lt;p&gt;MATLAB – признанный язык для вычислений, используется в академических кругах и промышленности. Разработан и лицензирован MathWorks, компанией, созданной в 1984 году, которая занимается разработкой программного обеспечения.&lt;/p&gt;
+&lt;h3 id=&#34;плюсы-6&#34;&gt;Плюсы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Создан для вычислений. Идеально подходит для приложений, требующих сложных математических функций.&lt;/li&gt;
+&lt;li&gt;Имеет ряд встроенных функций для визуализации данных.&lt;/li&gt;
+&lt;li&gt;Используется во многих университетских курсах по физике, инженерии и прикладной математике. Как следствие широко применяется в этих областях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;минусы-6&#34;&gt;Минусы&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Проприетарная лицензия. Конечная стоимость, конечно, зависит от области применения (существуют домашняя, студенческая, академическая или стандартная лицензии), но раскошелиться придется в любом случае (от $55 до пары тысяч).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Существуют и другие языки общего назначения, которые так или иначе подходят для работы с данными. Приводим их краткий обзор.&lt;/p&gt;
+&lt;h2 id=&#34;c&#34;&gt;C++&lt;/h2&gt;
+&lt;p&gt;Мощный язык программирования общего назначения, обладающий молниеносной производительностью. Вопрос невысокой популярности C++ в Data Science объясняется выбором продуктивности вычислений против производительности языка.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Как сказал один пользователь Quora:&lt;/p&gt;
+&lt;p&gt;«Если вы пишете код, который будет делать какой-то специальный анализ, и запустится всего раз, что вы выберете: потратить полчаса на программу, которая будет работать через 10 секунд или 10 минут на написание программы, которая запустится через минуту?»&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+&lt;p&gt;Хотя с появлением Node.js JavaScript стал серьезным серверным языком, его использование в Data Science ограничено (хотя есть, конечно, brain.js и synaptic.js). А виной тому некоторые его недостатки:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;Хотя Node.js на данный момент 8 лет, существует всего несколько библиотек и модулей для работы с большими данными.&lt;/li&gt;
+&lt;li&gt;Node.js довольно производительная платформа, но у самого JavaScript много критиков, и не без основания.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Node.js обладает асинхронным вводом/выводом – и это сильная сторона. Так что, в будущем это может сыграть в пользу JavaScript, как серьезного языка для обработки больших объемов данных. Другой вопрос в том, будет ли кто-то на его основе создавать то, что уже имеют другие языки программирования для Data Science.&lt;/p&gt;
+&lt;h2 id=&#34;perl&#34;&gt;Perl&lt;/h2&gt;
+&lt;p&gt;Perl имеет славу швейцарского ножа среди языков программирования, благодаря его универсальности, как скриптового языка. Он имеет много общего с Python и является динамически типизированным языком.&lt;/p&gt;
+&lt;p&gt;Однако, в сравнении с тем же Python, он имеет крайне мало расширений для работы с данными и большого энтузиазма в этой области работы с Perl не наблюдается. Возможно, виной тому не слишком дружелюбный синтаксис.&lt;/p&gt;
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+&lt;p&gt;Ruby – еще один популярный динамически типизированный язык общего назначения. Тем не менее, он также не был принят разработчиками работающими с большими данными в сравнении с Python.&lt;/p&gt;
+&lt;p&gt;Однако для Ruby существует проект SciRuby, созданный для вычислений и обработки данных. Впрочем, для серьезных исследований одного его оказывается недостаточно, поэтому Ruby остается не так популярен, как другие языки программирования для Data Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Последняя неделя перед экзаменами.</title>
+      <link>http://antonina1506.github.io/ru/post/post_week5/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_week5/</guid>
+      <description>&lt;h2 id=&#34;my-week&#34;&gt;My week&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve taken some math tests. I&amp;rsquo;ve sucessfully passed an English exam. I also won a korean contest in our school: you can see my project here -&amp;gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=kDWWXVunYSo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;
+&lt;a href=&#34;https://antonina1506.github.io/post/post_week4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Post&lt;/a&gt;
+Moreover, I did some extar tasks: korean and english. On Tuesday I meet my korean friend at the cafe to and we speak korean.
+All in all, this week was quite fine and I&amp;rsquo;ve done a lot.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Представление на корейском языке</title>
+      <link>http://antonina1506.github.io/ru/project/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0/</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/project/%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%ED%95%98%EA%B8%B0/</guid>
+      <description>
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/1IAiLoZ5toU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Здесь Вы можете увидеть моё видео ↟ или используйте эту ссылку ↠
+&lt;a href=&#34;https://www.youtube.com/watch?v=1IAiLoZ5toU&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Видео&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;안녕하세요, 저는 토냐에요. 만나서 반가워요.
+그리고 지금 저는 자기소개하고 싶어요. 시작 할께요!&lt;/p&gt;
+&lt;p&gt;저는 열여덟 살이에요. 파란색 눈과 짙은 갈색 머리예요. 제 아빠는 군인이였어요. 그래서 우리는 자주 이사했어요. 지금은 모스크바에서 살아요. 우리 가족은 모두 여섯 명인데. 아빠, 엄마, 언니와 여동생이 두 명 있어요. 아울러 저에겐 고양이가 있어요. 정말 예쁘고 커요.&lt;/p&gt;
+&lt;p&gt;어렸을때 저는 육년동안 스포츠 댄스를 했어요. 그리고 학교에서 뮤직밴드에서 노래했어요. 또한 탁구를 했는데요.&lt;/p&gt;
+&lt;p&gt;작년에 저는 루데엔 대학교에 입학했어요. 학교에서 외국어와 수학을 좋아했어요. 그래서 대학교에서 수학과 컴퓨터를 공부하고 전공 수업외에 영어와 한국어를 공부해요. 이제 제 영어 레벨은 B2예요. C1 레벨 시험을 통과하고 싶어서 저는 열심히 공부해요.&lt;/p&gt;
+&lt;p&gt;저는 취미가 많이 있지만 한국어는 제일 중요하게 생각해요.저는 드라마를 보고 한국을 좋아하기 시작했어요. 그래서 한국 문화를 공부하기 시작했어요. 저는 한국어를 스스로 공부했지만 그 후 산한국어학당에 다니기 시작했어요. 열심히 노력하며 자주 공부해요. 저는 영화, 한국 비디오, 음악, 한국 친구와의 교제와 한식을 통해 한국 문화를 알게되었어요. 한국어를 좋아해서 한국어는 저에게 일종에 휴식인것 같아요. 한국을 실제로 보려고 저는 한국에 여행을 너무 가고 싶어요. 저는 미래에 무엇을 하고 싶은지 아직 몰라요. 하지만 공부하는것을 좋아해서 많은 관련된 취미들가 있어요.&lt;/p&gt;
+&lt;p&gt;하지만 한국어은 저에게 가장 중요해요.그래서 저는 산한국어학당이 제공하는 기회에 정말 감사해요. 지금 몇몇의 학생들에게 한국에 가서 한국 대학교에서 한국어를 공부할 기회가 있어요. 그리고 다른것과 비교할수 없는 경험을 할수 있어요.&lt;/p&gt;
+&lt;p&gt;저는 한국과 한국어를 정말 좋아해서 제 꿈을 이루려고 열심히 공부해요.&lt;/p&gt;
+&lt;p&gt;들어주셔서 감사합니다 !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчёта в markdown.</title>
+      <link>http://antonina1506.github.io/ru/post/post_report/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_report/</guid>
+      <description>&lt;h2 id=&#34;common-information&#34;&gt;Common information&lt;/h2&gt;
+&lt;p&gt;Markdown is a markup language that will make your report creating much easier. To work with it you do not really need any special skill, it&amp;rsquo;s quite easy language. There are some basic things that you should know and it will be enough to create common reports. However, if you want to inprove your skills in markdown, you need to found out more information here -&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.markdownguide.org/basic-syntax/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;More about markdown&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;main-elements&#34;&gt;Main elements&lt;/h2&gt;
+&lt;h3 id=&#34;headings&#34;&gt;Headings&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don&amp;rsquo;t forget to put &lt;em&gt;space&lt;/em&gt; between &lt;em&gt;#&lt;/em&gt; and &lt;em&gt;Heading&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-headings&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Headings&#34; srcset=&#34;
+               /ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_ff2b56b1d068c8a533f6e8c5c6494cfa.webp 400w,
+               /ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_1a5afd8067899605c952e886fbe96d48.webp 760w,
+               /ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/1_hue53f5c9918528e93c67b4239c8ab8da8_7512_ff2b56b1d068c8a533f6e8c5c6494cfa.webp&#34;
+               width=&#34;268&#34;
+               height=&#34;131&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Headings
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-bold&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bold&#34; srcset=&#34;
+               /ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_4fbd442f4fac841d30181658c1a23092.webp 400w,
+               /ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_a223abf923494662c9162e63e8be5fa0.webp 760w,
+               /ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/2_huf0a3ee62a15598032efad1ad10561627_33251_4fbd442f4fac841d30181658c1a23092.webp&#34;
+               width=&#34;536&#34;
+               height=&#34;296&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Bold
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-italic&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Italic&#34; srcset=&#34;
+               /ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_5f50ca695dbc28791b94647e71a38d83.webp 400w,
+               /ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_486878874d025f2fcac80dff06ec0485.webp 760w,
+               /ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/3_hu6110ad2bc3e3737a0035e527c9911f63_37729_5f50ca695dbc28791b94647e71a38d83.webp&#34;
+               width=&#34;542&#34;
+               height=&#34;350&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Italic
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-bold-and-italic&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Bold and italic&#34; srcset=&#34;
+               /ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_0f40d96ee70d988aefe00855ff86897b.webp 400w,
+               /ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_6407027a3ac639499d6d701e08950f08.webp 760w,
+               /ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/4_hu96524c68a2a30d17c61c329663dc8441_36182_0f40d96ee70d988aefe00855ff86897b.webp&#34;
+               width=&#34;608&#34;
+               height=&#34;316&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Bold and italic
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;lists&#34;&gt;Lists&lt;/h3&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-1&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 1&#34; srcset=&#34;
+               /ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_b237591e61eced3b0909027fd77de1f1.webp 400w,
+               /ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_b6166d1e9c1a8c54a26a3287b7e49cb0.webp 760w,
+               /ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/5_hucc40bb30db1190518fb038a467b12b79_28650_b237591e61eced3b0909027fd77de1f1.webp&#34;
+               width=&#34;540&#34;
+               height=&#34;290&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 1
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-2&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 2&#34; srcset=&#34;
+               /ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_657d4f200cb39dc89798641689c10fed.webp 400w,
+               /ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_6a23c9f95432cdc64041d7e0587a5459.webp 760w,
+               /ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/6_hu1011d316ab20cd4d13c235bdbe0c9430_23707_657d4f200cb39dc89798641689c10fed.webp&#34;
+               width=&#34;512&#34;
+               height=&#34;231&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 2
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It doesn&amp;rsquo;t matter what figurs you put in the list, it still goes in order&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-3&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 3&#34; srcset=&#34;
+               /ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_eed25684829d255741c3f12d14430dc5.webp 400w,
+               /ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_265ef16be4a087adc0f211c63eb1d025.webp 760w,
+               /ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/7_hu301b042292ba17929e1b667285d4dc24_38177_eed25684829d255741c3f12d14430dc5.webp&#34;
+               width=&#34;543&#34;
+               height=&#34;424&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 3
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-4&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 4&#34; srcset=&#34;
+               /ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_bbe1aeeaebb8477c563caa1a26a2956f.webp 400w,
+               /ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_892f44c5af7ca17bdfbbb051548c4526.webp 760w,
+               /ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/8_hub8bb328a8b0486621a9402b73e7ff26f_28268_bbe1aeeaebb8477c563caa1a26a2956f.webp&#34;
+               width=&#34;526&#34;
+               height=&#34;286&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 4
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-5&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 5&#34; srcset=&#34;
+               /ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_2f46ea9a9c325b79b0a884f653ac1f17.webp 400w,
+               /ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_b9c879a3766c6fe358b133b71183c2c3.webp 760w,
+               /ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/9_hub7e3c3ae281c13a42bc6d392df7c58bd_37611_2f46ea9a9c325b79b0a884f653ac1f17.webp&#34;
+               width=&#34;547&#34;
+               height=&#34;420&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 5
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-list-6&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;List 6&#34; srcset=&#34;
+               /ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_ca32bb417a63105f7e9a60218486a445.webp 400w,
+               /ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_e52c8ed228eb98cbc22817b628b9d5aa.webp 760w,
+               /ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;http://antonina1506.github.io/ru/post/post_report/image/10_hu60d9e2c0aa67bfb7778acb8d18a90fd0_15917_ca32bb417a63105f7e9a60218486a445.webp&#34;
+               width=&#34;539&#34;
+               height=&#34;202&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      List 6
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You also can use &amp;lsquo;*&amp;rsquo; or &amp;lsquo;+&amp;rsquo; instead of &amp;lsquo;-&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t use different symbols in one list&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Here were some tips to make you life easier using markdown to create your reports.
+Thank you foe your attention!&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Выходные у бабушки</title>
+      <link>http://antonina1506.github.io/ru/post/post_week3/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_week3/</guid>
+      <description>&lt;h2 id=&#34;brief-information&#34;&gt;Brief information&lt;/h2&gt;
+&lt;p&gt;For the first 3 days I was in a small city (town) called Uvarovo. My grandfather lives there. I spend a lot of time outside because the weather was amazing and I tried to relax after hectic days in Moscow. After visiting my grandpa I went to my granny to SaratovThis week the whole country celebrated the 9th of May.. Saratov is quite big and famous city. I really like the architecture of this city and the weather is really nice too. However, when I was there the weather was not really plasant: it was rainy, windy and cold. But it didn&amp;rsquo;t break my plans and I enjoyed talking with my granny about everything.&lt;/p&gt;
+&lt;h2 id=&#34;what-ive-done-these-days&#34;&gt;What I&amp;rsquo;ve done these days&lt;/h2&gt;
+&lt;p&gt;Even if I had &amp;ldquo;holidays&amp;rdquo; I&amp;rsquo;ve done a lot. Starting with my university studies, I comleted everything for that week for operation systems, prepared for English exam and did some math tasks. I also spend some time doing Korean lessons and started preparation for a new challenge (dialog). Besides, I helped my granny a lot. We&amp;rsquo;ve cut down a tree, which trew the shadow on granny&amp;rsquo;s flowers. Then we cleaned a backyard to prepare it all for summer.&lt;/p&gt;
+&lt;p&gt;Actually, I&amp;rsquo;ve done everything that I was planning to do, so I can say that this week was relaxing as well as productive.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git. Программное обеспечение для отслеживания изменений в любом наборе файлов.</title>
+      <link>http://antonina1506.github.io/ru/post/post_git/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_git/</guid>
+      <description>&lt;h2 id=&#34;design&#34;&gt;Design&lt;/h2&gt;
+&lt;p&gt;Git&amp;rsquo;s design was inspired by BitKeeper and Monotone. Git was originally designed as a low-level version-control system engine, on top of which others could write front ends, such as Cogito or StGIT. The core Git project has since become a complete version-control system that is usable directly. While strongly influenced by BitKeeper, Torvalds deliberately avoided conventional approaches, leading to a unique design.&lt;/p&gt;
+&lt;h2 id=&#34;characteristics&#34;&gt;Characteristics&lt;/h2&gt;
+&lt;p&gt;Git&amp;rsquo;s design is a synthesis of Torvalds&amp;rsquo;s experience with Linux in maintaining a large distributed development project, along with his intimate knowledge of file-system performance gained from the same project and the urgent need to produce a working system in short order. These influences led to the following implementation choices:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Strong support for non-linear development
+Git supports rapid branching and merging, and includes specific tools for visualizing and navigating a non-linear development history. In Git, a core assumption is that a change will be merged more often than it is written, as it is passed around to various reviewers. In Git, branches are very lightweight: a branch is only a reference to one commit. With its parental commits, the full branch structure can be constructed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Distributed development
+Like Darcs, BitKeeper, Mercurial, Bazaar, and Monotone, Git gives each developer a local copy of the full development history, and changes are copied from one such repository to another. These changes are imported as added development branches and can be merged in the same way as a locally developed branch.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Compatibility with existent systems and protocols
+Repositories can be published via Hypertext Transfer Protocol (HTTP), File Transfer Protocol (FTP), or a Git protocol over either a plain socket or Secure Shell (ssh). Git also has a CVS server emulation, which enables the use of existent CVS clients and IDE plugins to access Git repositories. Subversion repositories can be used directly with git-svn.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-structures&#34;&gt;Data structures&lt;/h2&gt;
+&lt;p&gt;In many ways you can just see git as a filesystem—it&amp;rsquo;s content-addressable, and it has a notion of versioning, but I really designed it coming at the problem from the viewpoint of a filesystem person (hey, kernels is what I do), and I actually have absolutely zero interest in creating a traditional SCM system.&lt;/p&gt;
+&lt;p&gt;Git stores each revision of a file as a unique blob. The relationships between the blobs can be found through examining the tree and commit objects. Newly added objects are stored in their entirety using zlib compression. This can consume a large amount of disk space quickly, so objects can be combined into packs, which use delta compression to save space, storing blobs as their changes relative to other blobs.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown. Лёгкий язык разметки</title>
+      <link>http://antonina1506.github.io/ru/post/post_markdown/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_markdown/</guid>
+      <description>&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+&lt;p&gt;In 2002 Aaron Swartz created atx, &amp;ldquo;the true structured text format&amp;rdquo;. Swartz and Gruber then worked together to create the Markdown language in 2004, with the goal of enabling people &amp;ldquo;to write using an easy-to-read and easy-to-write plain text format, optionally convert it to structurally valid XHTML (or HTML)&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Its key design goal was readability, that the language be readable as-is, without looking like it has been marked up with tags or formatting instructions, unlike text formatted with a markup language, such as Rich Text Format (RTF) or HTML, which have obvious tags and formatting instructions. To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
+&lt;p&gt;Gruber wrote a Perl script, Markdown.pl, which converts marked-up text input to valid, well-formed XHTML or HTML and replaces angle brackets (&amp;lt;, &amp;gt;) and ampersands (&amp;amp;) with their corresponding character entity references. It can take the role of a standalone script, a plugin for Blosxom or a Movable Type, or of a text filter for BBEdit.&lt;/p&gt;
+&lt;h2 id=&#34;variants&#34;&gt;Variants&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Flavored Markdown
+GitHub had been using its own variant of Markdown since as early as 2009, adding support for additional formatting such as tables and nesting block content inside list elements, as well as GitHub-specific features such as auto-linking references to commits, issues, usernames, etc. In 2017, GitHub released a formal specification of its GitHub Flavored Markdown (GFM) that is based on CommonMark. It is a strict superset of CommonMark, following its specification exactly except for tables, strikethrough, autolinks and task lists, which GFM adds as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown Extra
+Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), Python and Ruby. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal and TYPO3.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;LiaScript
+LiaScript is a Markdown dialect that was designed to create interactive educational content.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Празднование 9 Мая</title>
+      <link>http://antonina1506.github.io/ru/post/post_week2/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_week2/</guid>
+      <description>&lt;h2 id=&#34;victory-day&#34;&gt;Victory day&lt;/h2&gt;
+&lt;p&gt;Victory Day is a holiday that commemorates the victory over Nazi Germany in 1945. It was first inaugurated in the 15 republics of the Soviet Union, following the signing of the German Instrument of Surrender late in the evening on 8 May 1945 (after midnight, thus on 9 May Moscow Time). The Soviet government announced the victory early on 9 May after the signing ceremony in Berlin. Although the official inauguration occurred in 1945, the holiday became a non-labor day only in 1965, and only in certain Soviet republics.&lt;/p&gt;
+&lt;h2 id=&#34;celebration&#34;&gt;Celebration&lt;/h2&gt;
+&lt;p&gt;In 1995, as the world celebrated the 50th anniversary of the end of the war, many world leaders converged on Moscow to attend the city&amp;rsquo;s first state sponsored ceremonies since the fall of the USSR. In 2015 around 30 leaders, including those of China and India, attended the 2015 celebration, while Western leaders boycotted the ceremonies because of the Russian military intervention in Ukraine.&lt;/p&gt;
+&lt;h2 id=&#34;holiday-traditions&#34;&gt;Holiday traditions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Victory Day Parades
+Victory Day Parades are military parades that are held on 9 May, particularly in various post-soviet nations such as Russia, Kazakhstan, Belarus, and until 2015, Ukraine.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Mass processions
+The Immortal Regiment (Russian: Бессмертный полк; Bessmertniy Polk) is a massive civil event staged in major cities in Russia and around the world every 9 May. Since it was introduced in 2012, it has been conducted in cities such as Moscow, Washington D.C., Dushanbe, Berlin, and Yekaterinburg. Participants carry pictures of relatives and/or family members who served during the Second World War. The front line of the procession carries a banner with the words Bessmertniy Polk written on it. Up to 12 million Russians have participated in the march nationwide in recent years. Since 2015, the President Vladimir Putin and senior Russian officials have participated in the procession in Moscow.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;soviet-and-post-soviet-symbols-associated-with-the-victory-day&#34;&gt;Soviet and post-Soviet symbols associated with the Victory Day&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Banner of Victory
+The Victory Banner refers to the Soviet military banner raised by the Soviet soldiers on the Reichstag building in Berlin on 1 May 1945. Made during the Battle of Berlin by soldiers who created it while under battlefield conditions, it has historically been the official symbol of the Victory of the Soviet people against Nazi Germany.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Saint George&amp;rsquo;s Ribbon
+The Ribbon of Saint George is a military symbol that dates back to the era of the Russian Empire. It consists of a black and orange bicolour pattern, with three black and two orange stripes. In the early 21st century, it became an awareness ribbon to commemorate the veterans of the war, being recognized as a patriotic symbol.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Приветствуем весну в Москве</title>
+      <link>http://antonina1506.github.io/ru/post/post_week1/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/post/post_week1/</guid>
+      <description>&lt;h2 id=&#34;weather&#34;&gt;Weather&lt;/h2&gt;
+&lt;p&gt;These days the weather was really plesant. The average temperature was about 12-17 degree C. There was a light warm wind somewhere and really clean sky with the shining sun.&lt;/p&gt;
+&lt;h2 id=&#34;events&#34;&gt;Events&lt;/h2&gt;
+&lt;p&gt;Last weekends there was an exhibition of arts of the future. It&amp;rsquo;s called  &amp;ldquo;Biennale. Art for the future&amp;rdquo;. There you could see many surprizing and exiting things. The events lasts untill 15th of May.
+&lt;a href=&#34;https://www.culture.ru/events/1566863/biennale-iskusstvo-budushego-art-for-the-future?ysclid=l2szkdm9x&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Find more information about it&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Слайды</title>
+      <link>http://antonina1506.github.io/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://antonina1506.github.io/ru/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://antonina1506.github.io/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://antonina1506.github.io/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
